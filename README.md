@@ -148,7 +148,7 @@ Asegúrate de reemplazar <<URL_DEL_REPOSITORIO>> con la URL real del repositorio
 Una vez clonado el proyecto, navega a la carpeta del proyecto utilizando el siguiente comando:
 
 ```bash
-cd nombre-del-proyecto
+cd nextia
 ```
 
 Reemplaza nombre-del-proyecto con el nombre de la carpeta que se haya creado después de clonar el repositorio.
@@ -186,5 +186,5 @@ yarn dev
 Una vez ejecutado, Vite iniciará un servidor de desarrollo y podrás acceder al proyecto en tu navegador en la siguiente URL:
 
 ```bash
-http://localhost:3000
+http://localhost:5173/
 ```
